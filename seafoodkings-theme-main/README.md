@@ -1,0 +1,2 @@
+# seafoodkings-theme
+WP-SeafoodKings
